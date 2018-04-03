@@ -1,0 +1,6 @@
+string param
+---
+int32 sensor
+int32 light
+int32 base
+int32 invert
