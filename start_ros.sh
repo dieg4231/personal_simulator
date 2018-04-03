@@ -21,4 +21,7 @@ xterm -geometry 70x18+460+455 -bg white -fg black  -hold -e ". ~/catkin_ws/devel
 #export TURTLEBOT_STACKS=circles &&
 #sudo chmod +777 /dev/ttyUSB0 && 
 #export TURTLEBOT_SERIAL_PORT=/dev/ttyUSB0 &&
-#roslaunch turtlebot_bringup minimal.launch --screen" 
+#roslaunch turtlebot_bringup minimal.launch --screen"
+
+#CHANGE
+ 
